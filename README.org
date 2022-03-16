@@ -1,1 +1,18 @@
 * Конфиги уважаемых людей
+Список конфигураций русскоговорящих пользователей операционной системы и
+пакетного менеджера [[http://guix.gnu.org][GNU Guix]] (доступно через tor или vpn).
+
+[[https://packages.debian.org/bullseye/guix][Пакет Guix в Debian]]
+
+[[https://t.me/gnu_guix_ru][Чат Telegram]]
+
+** Кириллов М. (@w96k)
+[[https://git.sr.ht/~w96k/dotfiles/tree/master/item/guix/config.scm][Системный конфиг]], [[https://git.sr.ht/~w96k/dotfiles/tree/master/item/guix/user.scm][Пользовательское окружение]], [[https://git.sr.ht/~w96k/dotfiles/tree/master][Dotfiles]]
+
+Thinkpad x200t с поддержкой стилуса и фиксом проблемы с высокочастотным
+шумом процессора. Настроено зеркало и тор для обхода блокировки со
+стороны хостинга ci.guix.gnu.org.
+
+Используется в качестве WM Ratpoison и Window Maker, в качестве DM Slim.
+
+
