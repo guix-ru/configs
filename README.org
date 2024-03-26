@@ -15,3 +15,11 @@ Thinkpad x200t с поддержкой стилуса и фиксом пробл
 стороны хостинга ci.guix.gnu.org.
 
 Используется в качестве WM Ratpoison и Window Maker, в качестве DM Slim.
+
+*** Витязев А.
+
+Guix используется на трёх машинах: [[https://git.sr.ht/~akagi/guixrc/tree/master/item/magi/configs.scm#L14][десктоп]], [[https://git.sr.ht/~akagi/guixrc/tree/master/item/magi/configs.scm#L27][ноутбук]] и [[https://git.sr.ht/~akagi/guixrc/tree/master/item/magi/system/remote/kokuou.scm][RISC-V]]
+одноплатник. Репозиторий с конфигами - [[https://git.sr.ht/~akagi/guixrc/][guixrc]]. Для первых двух
+конфиги основаны на [[https://sr.ht/~abcdw/rde/][rde.]] [[https://git.sr.ht/~akagi/guixrc/tree/master/item/magi/system/services][Системные]] и [[https://git.sr.ht/~akagi/guixrc/tree/master/item/magi/home/services][хоум]] сервисы, отсутсвующие в
+основном репо Guix. Также есть 2 канала: [[https://git.sr.ht/~akagi/vf2-guix/][vf2]] и [[https://git.sr.ht/~akagi/rrr][rrr]]. Оба доступны
+через [[https://toys.whereis.xn--q9jyb4c/][guix toys]].
